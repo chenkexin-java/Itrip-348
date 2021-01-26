@@ -1,0 +1,10 @@
+<html>
+    <table>
+    <#list a as People>
+        <tr><td>
+            ${People.name}
+            ${People.age}
+        </td></tr>
+    </#list>
+    </table>
+</html>

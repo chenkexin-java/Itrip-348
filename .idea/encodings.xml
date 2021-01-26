@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/itripProject" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itripProject/itripauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itripProject/itripbeans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itripProject/itripbiz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itripProject/itripdao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itripProject/itripsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itripProject/itriptrade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itripProject/itriputils" charset="UTF-8" />
+  </component>
+</project>
